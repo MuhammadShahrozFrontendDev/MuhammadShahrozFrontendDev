@@ -1,27 +1,20 @@
-# Frontend Web Development Portfolio
+About Me
+Hey there! 👋 I'm (Muhammd Shahroz), a passionate Fullstack Frontend Web Developer dedicated to crafting exceptional user experiences and building innovative web applications. With a blend of creativity, technical expertise, and a commitment to excellence, I strive to deliver cutting-edge solutions that make a meaningful impact.
+I have a strong background in front-end development with expertise in modern web technologies and frameworks. My goal is to leverage my skills and creativity to develop innovative solutions that solve real-world problems and leave a positive impact on users.
 
-Welcome to my frontend web development portfolio! 🚀
-
-## About Me
-
-I'am a passionate frontend web developer dedicated to crafting user-centric and visually appealing web experiences. With a keen eye for design and a love for clean code, I strive to create elegant solutions that engage and delight users.
-
-## Skills
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React.js, Vue.js, Angular
-- **Responsive Design:** Bootstrap, CSS Grid, Flexbox
-- **UI/UX Design:** Figma, Adobe XD
-- **Version Control:** Git, GitHub
-
+  FRONTEND TECH STACK 
+ >> Languages: HTML5, CSS3, JavaScript (ES6+)
+ >> Frameworks/Libraries: React.js, Vue.js, Angular
+ >> UI/UX Design: Figma, Adobe XD
+ >> Responsive Design: Bootstrap, CSS Grid, Flexbox
+ >> State Management: Redux, Vuex
+ >> API Integration: RESTful APIs, GraphQL
+ >> Build Tools: Webpack, Babel
+ >> Version Control: Git, GitHub
 
 ## Contact Me
 
-Feel free to reach out to me. I'm always open to new opportunities and collaborations!
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via email.
 
-Let's build something awesome together! 💻
+Let's build something amazing together! 💻
 
-
-<!---
-Level up your coding.
---->
