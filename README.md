@@ -4,11 +4,11 @@ I have a strong background in front-end development with expertise in modern web
 
   FRONTEND TECH STACK 
  >> Languages: HTML5, CSS3, JavaScript (ES6+)
- >> Frameworks/Libraries: React.js, Vue.js, Angular
- >> UI/UX Design: Figma, Adobe XD
- >> Responsive Design: Bootstrap, CSS Grid, Flexbox
- >> State Management: Redux, Vuex
- >> API Integration: RESTful APIs, GraphQL
+ >> Frameworks/Libraries: React.js
+ >> UI/UX Design: Figma, Adobe XD, Canva, Photopea
+ >> Responsive Design: Bootstrap, CSS Grid, Flexbox, Tailwind CSS
+ >> State Management: Redux, Thunk, 
+ >> API Integration: RESTful APIs
  >> Build Tools: Webpack, Babel
  >> Version Control: Git, GitHub
 
